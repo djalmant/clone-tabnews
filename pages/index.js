@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Fala Filipão! Primeiro passo para o app do Indicadores!</h1>
+    return <h1>Fala Filipão! Primeiro passo para o app dos Indicadores!</h1>
 }
 
 export default Home;
